@@ -237,6 +237,19 @@ header{
     cursor: pointer;
 }
 
+footer {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.icones-footer {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
 /* Deixando responsivo */
 @media (max-width: 1080px){
     .nav{
